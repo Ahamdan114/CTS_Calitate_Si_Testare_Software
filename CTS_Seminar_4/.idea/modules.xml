@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/CTS_Seminar_4_Adevarat.iml" filepath="$PROJECT_DIR$/CTS_Seminar_4_Adevarat.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/CTS_Seminar_4.iml" filepath="$PROJECT_DIR$/CTS_Seminar_4.iml" />
+>>>>>>> 0a9813a9cf688ec20ee07f391ec9dfbc6ed689ca
     </modules>
   </component>
 </project>

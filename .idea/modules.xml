@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/CTS_Discipline.iml" filepath="$PROJECT_DIR$/.idea/CTS_Discipline.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_Seminar_1/CTS_Seminar_1.iml" filepath="$PROJECT_DIR$/CTS_Seminar_1/CTS_Seminar_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS_Seminar_2/CTS_Seminar_2.iml" filepath="$PROJECT_DIR$/CTS_Seminar_2/CTS_Seminar_2.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/CTS_Calitate_Si_Testare_Software.iml" filepath="$PROJECT_DIR$/.idea/CTS_Calitate_Si_Testare_Software.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS_Seminar_1/CTS_Seminar_1.iml" filepath="$PROJECT_DIR$/CTS_Seminar_1/CTS_Seminar_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS_Seminar_2/CTS_Seminar_2.iml" filepath="$PROJECT_DIR$/CTS_Seminar_2/CTS_Seminar_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS_Seminar_3/CTS_Seminar_3.iml" filepath="$PROJECT_DIR$/CTS_Seminar_3/CTS_Seminar_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTS_Seminar_4/CTS_Seminar_4.iml" filepath="$PROJECT_DIR$/CTS_Seminar_4/CTS_Seminar_4.iml" />
+>>>>>>> 0a9813a9cf688ec20ee07f391ec9dfbc6ed689ca
     </modules>
   </component>
 </project>
